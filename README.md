@@ -1,16 +1,29 @@
-# rakshak
+# Rakshak
 
-A new Flutter project.
+## Overview
 
-## Getting Started
+AI-powered tourist safety platform developed for Smart India Hackathon 2025.
 
-This project is a starting point for a Flutter application.
+## Features
 
-A few resources to get you started if this is your first Flutter project:
+- AI Safety Score
+- Geo-Fencing Alerts
+- SOS Emergency System
+- Police Dashboard
+- Blockchain Identity Verification
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Tech Stack
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Flutter
+React
+Node.js
+MongoDB
+Ethereum
+TensorFlow
+
+## My Contributions
+
+- Developed frontend screens and user interface components.
+- Implemented geolocation services using Flutter plugins.
+- Designed and integrated geo-fencing logic for location-based safety alerts.
+- Assisted in testing and feature integration across the application.
